@@ -3,7 +3,7 @@
 
 ### kindly give a blank line/next line and then introduce yourself
 
-Hi, I am [Tarandeep Singh](https://github.com/taran9873/).
+Hi, I am [maddybosss]
 
 Hi, I am [Taran from Dtu](https://github.com/tara98/).
 
